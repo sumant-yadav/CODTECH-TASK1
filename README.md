@@ -1,8 +1,13 @@
 **Name:** SUMANT KUMAR
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:**  CT4WD2980
+
 **Domain:** WEB DEVELOPMENT
+
 **Duration:** 29TH JUNE TO 12 JULY
+
 **MENTOR:** Neela Santhosh Kumar
 
 ## OVERVIEW OF THE PROJECT
