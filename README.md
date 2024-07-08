@@ -12,7 +12,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-
+![To-do list ](https://github.com/sumant-yadav/CODTECH-TASK1/assets/170974994/5f0ef557-061c-44d6-b464-207d846985d2)
 
 
 ### PROJECT: TO_DO List Web Application
