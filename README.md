@@ -28,8 +28,12 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 **• User-friendly interface**
 
 ### Technologies Used:
-• HTML: Provides the structure and content of the web page.
-• CSS: Styles the visual appearance of the web page.
-• JavaScript: Adds interactivity and functionality to the application.HTML: Provides the structure and content of the web page.
-• CSS: Styles the visual appearance of the web page.
-• JavaScript: Adds interactivity and functionality to the application.
+**• HTML: Provides the structure and content of the web page.**
+
+**• CSS: Styles the visual appearance of the web page.**
+
+**• JavaScript: Adds interactivity and functionality to the application.HTML: Provides the structure and content of the web page.**
+
+**• CSS: Styles the visual appearance of the web page.**
+
+**• JavaScript: Adds interactivity and functionality to the application.**
